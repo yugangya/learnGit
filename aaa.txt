@@ -1,3 +1,6 @@
 hello guoyugang
 this is gitlearn text!
-thank;
+thanks;
+
+第三次添加！
+第三次添加！
